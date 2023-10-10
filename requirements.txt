@@ -1,0 +1,10 @@
+altair
+vega_datasets
+altair-data-server
+jupyterlab
+numpy
+pandas==2.0.*
+scipy
+jupytext
+ipywidgets
+vegafusion[embed]
